@@ -81,14 +81,15 @@ GitHub: used to organize projects, have version control, document, and publicly 
 Notepad / plain text editor: was applied in FASTA sequence cleaning, formatting of headers as well as transient sequence processing before importation into SnapGene.
 
 **10. Future Direction (Phase 2)**
-*Phase 2 will extend the current construct-design workflow into a more biologically realistic and structurally informed analysis pipeline.
-*The proposed guideline would be as follows:
-*Replacement of placeholders with real sequences: the existing place holders will be substituted with verified backbone and regulatory sequences that will suit the targeted saRNA construct.
-*Strengthening of construct design: the dual-expression construct will be reconstituted with the completed sequence parts to enhance biological and downstream reproducibility.
-*ColabFold/AlphaFold structural prediction: colabFold, which is an alpha fold-based platform, will be used to predict the protein structure of PMIF and LmMIF.
-*Molecular docking analysis: predicted structures will be evaluated for receptor interaction, particularly with CD74, the canonical MIF receptor. A pilot structural prediction has already been performed for Plasmodium MIF using ColabFold, providing preliminary confirmation that this second phase is feasible, although full results are not included in the present phase. The development of expansion to receptor-binding interpretation.
-The structural and docking products will also be involved in investigating the idea of whether the antigens of interest maintain pertinent interaction properties in order to engage with the host receptors.
-*Phase 3: the results from phase 2 will be integral in determining progression into phase 3 especially the results of molecular docking
+Phase 2 will extend the current construct-design workflow into a more biologically realistic and structurally informed analysis pipeline.
+- The proposed guideline would be as follows:
+- Replacement of placeholders with real sequences: the existing place holders will be substituted with verified backbone and regulatory sequences that will suit the targeted saRNA construct.
+- Strengthening of construct design: the dual-expression construct will be reconstituted with the completed sequence parts to enhance biological and downstream reproducibility.
+- ColabFold/AlphaFold structural prediction: colabFold, which is an alpha fold-based platform, will be used to predict the protein structure of PMIF and LmMIF.
+- Molecular docking analysis: predicted structures will be evaluated for receptor interaction, particularly with CD74, the canonical MIF receptor. A pilot structural prediction has already been performed for Plasmodium MIF using ColabFold, providing preliminary confirmation that this second phase is feasible, although full results are not included in the present phase.
+- The development of expansion to receptor-binding interpretation: the structural and docking products will also be involved in investigating the idea of whether the antigens of interest maintain pertinent interaction properties in order to engage with the host receptors.
+- 
+- Phase 3: the results from phase 2 will be integral in determining progression into phase 3 especially the results of molecular docking
 
 ## References
 1. Blakney AK, Ip S, Geall AJ. An update on self-amplifying mRNA vaccine development. Vaccines (Basel). 2021;9(2):97.
