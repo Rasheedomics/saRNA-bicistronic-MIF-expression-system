@@ -73,7 +73,7 @@ The construct is prepared for:
 Overlap refinement, downstream structural and immunological validation with real sequences in places of placeholders.
 
 **9. Tools Used**
-Phase 1 to this project utilized the following tools and resources:
+Phase 1 of this project utilized the following tools and resources:
 - SnapGene: used to assemble the sequence imports, visualize constructs, arrange fragments, do basic annotation and setup in silico Gibson Assembly workflow.
 - NCBI GenBank: used to retrieve the PMIF nucleotide sequence, namely that of Plasmodium yoelii yoelii MIF.
 - TriTrypDB: was used to extract the LmMIF nucleotide sequence for Leishmania infantum gene.
